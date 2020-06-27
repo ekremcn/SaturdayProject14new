@@ -1,9 +1,5 @@
-
 public class ReadMe {
-
-
-
-    /*
+/*
     NOTE: Create your own account in the website in manual part
 
     Navigate to website http://a.testaddressbook.com/sign_in
@@ -77,8 +73,6 @@ public class ReadMe {
 
 
      */
-
-
 
 
 }
