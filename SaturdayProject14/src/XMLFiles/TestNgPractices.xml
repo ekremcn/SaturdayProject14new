@@ -1,0 +1,16 @@
+<suite name="SaturdayProject Chrome" >
+    <test name="Chrome Test">
+        <parameter name="browser" value="chrome"> </parameter>
+        <classes>
+            <class name="TestNgPracticise1"></class>
+            <class name="TestNGPractice2"></class>
+        </classes>
+    </test>
+    <test name="Firefox Test">
+        <parameter name="browser" value="firefox"> </parameter>
+        <classes>
+            <class name="TestNgPracticise1"></class>
+            <class name="TestNGPractice2"></class>
+        </classes>
+    </test>
+</suite>
